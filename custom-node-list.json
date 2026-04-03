@@ -1,1 +1,9 @@
-https://github.com/merecesarchviz/ComfyUI-Dual-Video-Preview
+{
+  "name": "Dual Video Preview",
+  "author": "merecesarchviz",
+  "description": "Compare 2 videos",
+  "repo": "https://github.com/merecesarchviz/ComfyUI-Dual-Video-Preview",
+  "branch": "main",
+  "category": "image"
+}
+
